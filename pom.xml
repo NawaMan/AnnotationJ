@@ -4,7 +4,7 @@
     
     <groupId>io.annotationj</groupId>
     <artifactId>annotationj-base</artifactId>
-    <version>0.0.1.0-SNAPSHOT</version>
+    <version>0.0.1.0</version>
     <packaging>pom</packaging>
     
     <name>annotationj-base</name>
